@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vishishttiwari
 - 👀 I’m interested in Software Engineering Positions
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Interesting Software Projects
+- 💞️ I’m looking to collaborate on startups
 - 📫 How to reach me - vishishttiwari@gmail.com
 
 <!---
